@@ -6,3 +6,6 @@ Section:A
 Branch:Computer Science Engineering
 Year of Admission:2024
 Collage Name:GITW
+SSLC:Holy Angel's High School
+PUC:Bishop Cotton Women's Christian College 
+UG: 2nd year B.E Ghousia Institute Technology For Women
